@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174596389364",
+    "project_id": "webcomu",
+    "storage_bucket": "webcomu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174596389364:android:a3f0548a9e42286fc961a1",
+        "android_client_info": {
+          "package_name": "com.pedro.webcomu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxcQ10fR9ieS_CCxHhomr_pDujXnodaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
